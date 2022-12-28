@@ -1,19 +1,36 @@
 #  The contact options.
 
--
-  type: github
-  icon: 'fab fa-github'
+#-
+#  type: github
+#  icon: 'fab fa-github'
 -
   type: twitter
   icon: 'fab fa-twitter'
+  url:  'https://twitter.com/Tucker_Matt'
 -
-  type: email
-  icon: 'fas fa-envelope'
-  noblank: true            # open link in current tab
+#  type: linkedin
+#  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+#  url:  'https://www.linkedin.com/in/matthew-tucker-42b20922/'     
+#-
+  type: facebook
+  icon: 'fab fa-facebook'
+  url:  'https://www.facebook.com/matt.tucker.39501'
 -
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
+  type: discord
+  icon: 'fab fa-discord'
+  url:  'https://discord.gg/a4FRuRbhcC'   
+-
+  type: mastodon
+  icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
+  url:  'https://twit.social/@Tucker'                  # Fill with your mastodon account page
+-
+#  type: email
+#  icon: 'fas fa-envelope'
+#  noblank: true            # open link in current tab
+#-
+#  type: rss
+#  icon: 'fas fa-rss'
+#  noblank: true
 
 # Uncomment and complete the url below to enable more contact options
 # -
