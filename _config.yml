@@ -21,7 +21,7 @@ timezone: America/New_York
 
 title: Seriously Matt                         # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: My Blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Matt Tucker, Blog, Seriously, About, IndieWeb
