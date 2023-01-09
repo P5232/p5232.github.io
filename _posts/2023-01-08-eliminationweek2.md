@@ -14,7 +14,7 @@ Coffee and rice cakes were our friend this week. The repetitive, boring, bland f
 ![image of coffee beans in a dish and a rice cake.{caption=Coffee and Rice Cakes.}](/assets/img/20230108_coffee.JPG){: w="700"}
 *Coffee and Rice Cakes*
 
-<u>**Coffee**</u>  
+<u><b>Coffee</b></u>  
 We say we drink you for the taste.  
 We say you help us wake up.  
 But let the truth be told,  
