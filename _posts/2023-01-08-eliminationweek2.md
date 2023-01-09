@@ -14,14 +14,14 @@ Coffee and rice cakes were our friend this week. They repetitive, boring, bland 
 ![image of coffee beans in a dish and a rice cake.{caption=Coffee and Rice Cakes.}](/assets/img/20230108_coffee.JPG){: w="700"}
 *Coffee and Rice Cakes*
 
-** Coffee**
-We say we drink you for the taste.
-We say you help us wake up.
-But let the truth be told,
-You have control over us.
-Just as you drive honey bees to caffeine containing pollen,
-You make us ferment leaves and dry beans for your goodness.
-You are interlocked with our neural network,
-While controlling the flow of blood in our veins. 
-We succumb, we acquiesce, we know your power,
-Please let us have our warm cuppa each morning.
+** Coffee**  
+We say we drink you for the taste.  
+We say you help us wake up.  
+But let the truth be told,  
+You have control over us.  
+Just as you drive honey bees to caffeine containing pollen,  
+You make us ferment leaves and dry beans for your goodness.  
+You are interlocked with our neural network,  
+While controlling the flow of blood in our veins.   
+We succumb, we acquiesce, we know your power,  
+Please let us have our warm cuppa each morning.  
