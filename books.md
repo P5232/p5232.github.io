@@ -4,6 +4,17 @@ title: Books
 layout: page
 permalink: /books/
 ---
+
+07/2023: <u>Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue</u> by Ryan Holiday <br>
+A somewhat long-winded look back (from inception to years after) at the historic Hulk Hogan sex-tape scandal and how his court case brought down the online media giant Gawker. There is something about this book that speaks to me, and I am not certain what it is. I picked this book for our bookclub to see what others think of the book. There is good and evil; well-intentions that are destructive. There is a win, that turns into maybe not a win, but has some positive effects on the losers. There is a clear path and plan that turns into a lot of gray by the end. Perhaps that is what I like about the book. Life is various shades of gray even when people try to make it black and white. Some of my favorite take-aways are: "You can't extract revenge at no cost to yourself." and "One person's liberation can be another's opression."
+
+06/2023: <u>Surrounded by Idiots: The Four Types of Human Behavior and How to Effectively Communicate with Each in Business (and in Life)</u> by Thomas Erikson <br>
+Yes, the title of this book is a bit much. Yes, I did take the bait, but it was a fun read. The book is a fascinating revisit at the classical personality types broken down into 4 colors which details their strengths, weaknesses, and combinations that mesh well together. The personality types are similar to those described in the past by Hippocrates or Myers-Briggs. Here is a summary of the 4 personality types. The end of the book has the author inteview a person that is dominant in one color and the answers are hilarious. 
+-Reds are dominant, like to compete on anything, are good at completing tasks by using any means necessary, like to go fast, bothered by slowness.
+-Yellows are people persons who thrive on relationships and friends. They tend to talk a lot and digress into different topics. They have lots of creative ideas that may or may not work in reality. Logic is not their strength.
+-Blues are more stoic and logical. They like to observe and know all the facts, but typically won't speak up unless engaged. They want everything to right and perfect before moving forward. They can be bogged down in paralysis by analysis.
+-Greens are the majority of people. They are friendly, easy going, and don't like conflict. They will often go along with things just to avoid upsetting others. They can be described as a mixture of the other 3 personality types without their extremes. 
+
 04/2023: <u>The Stranger</u> by Albert Camus <br>
 This is an unusual introducton to the philosophy Absurdism by its founder Albert Calmus. His first novel is about a person who ends up killing someone which brings forward the ideas of chance in Absurdism. The main character does not have many redeeming characteristics, but he is also not evil in his heart. We want to like him, but he doesn't give us much of a chance. Should he be put to death for his crime? Who in society really cares if he is put to death or not. There are topics that arise in this book that make for a good discussion on meaning vs random chance. I plan to read some of his other writings.
 
