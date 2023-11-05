@@ -5,6 +5,12 @@ layout: page
 permalink: /books/
 ---
 
+10/2023: <u>At the Existentialist Café: Freedom, Being, and Apricot Cocktails</u> by Sarah Bakewell <br>
+A somewhat rambling and less consise description of the Existential philosophy generation by looking at the major characters and the time periods during which they lived. I had high hopes for this book, but sadly it couldn't keep my attention even as I gave myself an extra month to finish it. A key quote: "You should make your choices as though you were choosing on behalf of the whole humanity, taking the entire burden of responsibility for how the human race behaves." -pg10
+
+08/2023: <u>American Ramble: A Walk of Memory and Renewal</u> by Neil King Jr. <br>
+A well-written self-exploration journey by a retired journalist starting from his home in Washington DC to Manhattan New York with historical and social stops along the 300 mile walk. He talks about distinct regions as you progress past city centers such as the wealthy areas inside the city, blue collar regions on the outskirts, middle class suburbs, upper class converted farms/plantations, and finally working farmland. The history of the cities give rise to their personality and design today. There are many friendly people along the walk willing to help a stranger on a journey.
+
 07/2023: <u>Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue</u> by Ryan Holiday <br>
 A somewhat long-winded look back (from inception to years after) at the historic Hulk Hogan sex-tape scandal and how his court case brought down the online media giant Gawker. There is something about this book that speaks to me, and I am not certain what it is. I picked this book for our bookclub to see what others think of the book. There is good and evil; well-intentions that are destructive. There is a win, that turns into maybe not a win, but has some positive effects on the losers. There is a clear path and plan that turns into a lot of gray by the end. Perhaps that is what I like about the book. Life is various shades of gray even when people try to make it black and white. Some of my favorite take-aways are: "You can't extract revenge at no cost to yourself." and "One person's liberation can be another's opression."
 

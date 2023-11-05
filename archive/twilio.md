@@ -10,7 +10,7 @@ Matt's Text Notification Services
 
 <h3>Contact Information </h3>
 name: Matt
-email: P5233Blog@gmail.com
+email: P5232Blog@gmail.com
 
 <h3>Text Notification Service Description</h3>
 The text notification service provides its users with SMS notification of important events or reminders. This could include situations such as school cancellation or closings.  
