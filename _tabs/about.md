@@ -12,7 +12,7 @@ Another major reason for this website is the IndieWeb where people own and maint
 I don't have comments enabled, but if someone finds one of my posts interesting, let me know in one of the social media links provided. Please forgive all spelling and grammatical mistakes.
 
 <ul>
-  <li><a href="https://bsky.app/profile/p5232.bsky.social" target="_blank" rel="me">@p5232.bsky.social on Bluesky Social</a></li>
+<!--  <li><a href="https://bsky.app/profile/p5232.bsky.social" target="_blank" rel="me">@p5232.bsky.social on Bluesky Social</a></li> -->
   <li><a href="https://www.facebook.com/matt.tucker.39501" target="_blank" rel="me">Matt Tucker on Facebook</a></li>
   <li><a rel="me" href="https://twit.social/@Tucker">@Tucker@twit.social on Mastodon</a></li>
 </ul>
