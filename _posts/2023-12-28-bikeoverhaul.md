@@ -70,7 +70,7 @@ The rest of the pictures are just after overhaul. Everything but the old paint j
 Here is the breakdown of the material costs. If I included labor, it would be priceless. I am ready for my next project.
 
 | Bike Part | Price |
-|:---|:----:|
+|:-------|:----:|
 | 1 Bike | $50 |
 | 2 Tires & Tubes | $51 |
 | 1 Seat | $16 |
@@ -80,5 +80,5 @@ Here is the breakdown of the material costs. If I included labor, it would be pr
 | Brake Pads | $10 |
 | 2 Transmission Wire | $10 |
 | White Outer Housing Cable | $11 |
-| **Total**  | **$200** |
+| **Total**   | **$200** |
 
