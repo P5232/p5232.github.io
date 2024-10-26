@@ -4,9 +4,9 @@
     background-color: #ffffff;
   }
 a {
-color: black;
+color: rgb(26, 156, 126);
 font-weight: bold;
-text-decoration: underline;
+text-decoration: none;
 }
 h2 {
     font-size: 1.6em; /* Adjust the font size as needed */
@@ -99,6 +99,16 @@ header {
 }
 .container {
     text-align: center;
+}
+.section-position {
+    height: 30px;
+    /* border: solid 1px grey; */
+    padding: 20px 0px 0px 0px;
+    margin-left: 5px;
+}
+.section-position h2 {
+    padding: 0px 0px 0px 0px;
+    margin: 0px;
 }
 .box3 {
     flex:1;
