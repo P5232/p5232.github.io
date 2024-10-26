@@ -1,0 +1,136 @@
+/* styles.css */
+:root {
+    color: #353535;
+    background-color: #ffffff;
+  }
+a {
+color: black;
+font-weight: bold;
+text-decoration: underline;
+}
+h2 {
+    font-size: 1.6em; /* Adjust the font size as needed */
+}
+h3 {
+    margin: 5px;
+    font-size: 1.4em;
+}
+ul {
+    margin: 5px;
+}
+li {
+    margin: 3px;
+}
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    padding: 1px;
+    margin: 0px;
+    font-size: 1em;
+    box-sizing: content-box;
+    background-color: #b9bfea; 
+    text-align: center;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1px 1px;
+    border-bottom: 1px solid #d3cfcf
+  }
+  .navbar a {
+    color: #353535; /* Root font color */
+    font-size: 1.2em;
+    font-weight: normal;
+    text-decoration: none;
+    padding: 10px 20px;
+  }
+  .navbar a:hover {
+    background-color: #f0f0f0; /* Hover background color */
+  }
+  .navbar a.active {
+    background-color: #e0e0e0; /* Active background color */
+    font-weight: bold;
+  }
+
+.main-content {
+    margin: 2% 5% 2% 2%; /* Top Right Bottom Left */
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    /* border: 1px solid grey */
+  }
+
+.box1 {
+    padding: 2px;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: row;
+    /* border: solid 1px green */
+}
+.dashboard {
+    flex:1;
+    justify-content:left;
+    /* align-items: center; */
+    min-height: 50px;
+    border: solid 1px grey;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+}
+.box2 {
+    flex:1;
+    display: flex;
+    justify-content:left;
+    /* align-items: center; */
+    min-height: 50px;
+    border: solid 1px grey;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+}
+.container {
+    text-align: center;
+}
+.box3 {
+    flex:1;
+    /* border: solid 1px grey;
+    border-radius: 10px; */
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+footer {
+    text-align: center;
+    padding: 5px;
+    font-size: 0.8em; /* Adjust font size as needed */
+    /* position: fixed; */
+    /* bottom: 0; */
+    width: 100%;
+  }
+.nested-list {
+    display: none;
+}
+
+.nested-list.show {
+    display: block;
+}
+.nested-list.show li {
+    font-size: 18px;
+}
+.expand-button {
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+.category-list li {
+    font-size: 24px;
+  }

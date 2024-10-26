@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project 5232</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+  </head>
+
+  <body>
+    <header id="header" class="header" role="banner">
+      <h1>Project 5232</h1>
+    </header>
+    <nav id="navbar" class="navbar" role="navigation">
+      <a href="index.html">Home</a>
+      <a href="daily.html">Daily</a>
+      <a href="recipes.html" class="active">Recipes</a>
+      <a href="tools.html">Tools</a>
+      <a href="www.seriouslymatt.com" target="_blank">Blog</a>
+    </nav>
+
+    <div id="main-content" class="main-content", role="main">
+      <main role="main">
+        <h2>Categories</h2>
+        <ul class="category-list">
+            <li style="list-style-type: none;">
+              <button class="expand-button">+</button>
+              Sauces
+              <ul class="nested-list">
+                <li>Tahini - TBD</li>
+                <li>Lime Cilantro - TBD</li>
+              </ul>
+            </li>
+            <li style="list-style-type: none;">
+              <button class="expand-button">+</button>
+              Desserts
+              <ul class="nested-list">
+                <li>Vegan Chocolate Cake - TBD</li>
+                <li>Banana Bread - TBD</li>
+              </ul>
+            </li>
+          </ul>
+          <script>
+            const expandButtons = document.querySelectorAll('.expand-button');
+        
+            expandButtons.forEach(button => {
+              button.addEventListener('click', () => {
+                const   
+         nestedList = button.nextElementSibling;
+                nestedList.classList.toggle('show');
+                button.textContent = button.textContent === '+' ? '-' : '+';
+              });
+            });
+          </script>
+      <footer><p>This is my footer.</p></footer>
+    </div>

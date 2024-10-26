@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project 5232</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+  </head>
+
+  <body>
+    <header id="header" class="header" role="banner">
+      <h1>Project 5232</h1>
+    </header>
+    <nav id="navbar" class="navbar" role="navigation">
+      <a href="index.html">Home</a>
+      <a href="daily.html">Daily</a>
+      <a href="recipes.html">Recipes</a>
+      <a href="tools.html" class="active">Tools</a>
+      <a href="www.seriouslymatt.com" target="_blank">Blog</a>
+    </nav>
+
+    <div id="main-content" class="main-content", role="main">
+      <main role="main">
+        <h2>Categories</h2>
+        <ul class="category-list">
+            <li style="list-style-type: none;">
+              <button class="expand-button">+</button>
+              Coding
+              <ul class="nested-list">
+                <li><a href="https://jsonviewer.stack.hu/" target="_blank">Json Viewer</a></li>
+                <li><a href="https://colorhunt.co/" target="_blank">Color Hunt Website</a></li>
+                <li><a href="https://difftext.com/" target="_blank">Text Comparison Tool</a></li>
+              </ul>
+            </li>
+            <li style="list-style-type: none;">
+              <button class="expand-button">+</button>
+              Braille References
+              <ul class="nested-list">
+                <li><a href="https://www.teachingvisuallyimpaired.com/uploads/1/4/1/2/14122361/ueb_braille_chart.pdf" target="_blank">Braille UEB Chart</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Hebrew_Braille" target="_blank">Hebrew Chart</a></li>
+              </ul>
+            </li>
+          </ul>
+          <script>
+            const expandButtons = document.querySelectorAll('.expand-button');
+        
+            expandButtons.forEach(button => {
+              button.addEventListener('click', () => {
+                const   
+         nestedList = button.nextElementSibling;
+                nestedList.classList.toggle('show');
+                button.textContent = button.textContent === '+' ? '-' : '+';
+              });
+            });
+          </script>
+      <footer><p>This is my footer.</p></footer>
+    </div>
