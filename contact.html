@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project 5232</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+  </head>
+
+  <body>
+    <header id="header" class="header" role="banner">
+      <h1>Project 5232</h1>
+    </header>
+    <nav id="navbar" class="navbar" role="navigation">
+      <a href="index.html">Home</a>
+      <a href="daily.html">Daily</a>
+      <a href="recipes.html">Recipes</a>
+      <a href="tools.html">Tools</a>
+      <a href="contact.html", class=active>Contact</a>
+    </nav>
+
+    <div id="main-content" class="main-content", role="main">
+      <main role="main">
+        <h2>Contact</h2>
+        <p>email: p5232blog@gmail.com</p>
+
+          <script>
+            const expandButtons = document.querySelectorAll('.expand-button');
+        
+            expandButtons.forEach(button => {
+              button.addEventListener('click', () => {
+                const   
+         nestedList = button.nextElementSibling;
+                nestedList.classList.toggle('show');
+                button.textContent = button.textContent === '+' ? '-' : '+';
+              });
+            });
+          </script>
+      <footer><p>This is my footer.</p></footer>
+    </div>
