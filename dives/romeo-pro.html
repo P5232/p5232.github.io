@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project 5232</title>
+    <link rel="stylesheet" type="text/css" href="/styles/style.css">
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+  </head>
+
+  <body>
+    <header id="header" class="header" role="banner">
+      <h1>Project 5232</h1>
+    </header>
+    <nav id="navbar" class="navbar" role="navigation">
+      <a href="/index.html">Home</a>
+      <a href="/recipes.html">Recipes</a>
+      <a href="/tools.html">Tools</a>
+      <a href="/dives.html", class="active">Dives</a>
+      <a href="/contact.html">Contact</a>
+    </nav>
+
+    <div id="main-content" class="main-content", role="main">
+      <main role="main">
+        <h2>Romeo Pro-50 Braille Embosser</h2>
+        <p>I have had to repair our Romeo Pro-50 Embosser a couple times now, and the problem seems to be one set of capacitors. If anyone else is having issues with their device, here are some troubleshotting tips from our repairs.</p>
+        <h3>Warning Signs</h3>
+        <ul>
+            <li>Burning Smell - One night I forgot to turn off the Romeo and I woke up to the smell of electronics burning. I turn off the machine and unplug it from now on.
+            </li>
+            <li>Braille only embossing on the left or the right side of the page - The latest issue was braille was only printing on the left 60% of the page and it was not an alignment issue.</li>
+        </ul>
+        <p></p>
+        <h3>The Solution</h3>
+        <p>The solution was to replace bad capacitors each time. There are 10 micro-farad tantalum capacitors on the electronics board that are near the voltage regulators to the solenoid  switches. The first one melted and then a few years later, the second one shorted causing one set of solenoids not to work. My suggestion is to keep extra capacitors on hand if using the embosser for a while.</p>
+        <h3>Other Details</h3>
+        <p>There is a way to remove the electronics board after taking the metal frame out of the case. I carefully labeled each connector going to the electronics board and took pictures before disconnecting them. Once they are all disconnected, you can remove the screws holding the board down and wiggle, bend, and slide the board out the hole in the front.</p>
+        <p>Before removing the electronics board, there are voltage probe locations on the board. If you have a multimeter and are careful, you can probe the voltages. When I did this, I did find the Solenoid A was not at the proper voltage. I thought replacing the Solenoid A voltage regulator was the issue, but replacing that didn't fix the issue.</p>
+        <p>Another roadblock was when I first replaced the bad tantalum capacitor with ones I purchased on Amazon. I suspect the replacement capacitors were not of the highest quality since it blew once I powered the Embosser back up.</p>
+        <p>I tried again with more expensive capacitors from a known electronics supplier such as Digikey. They took longer to arrive and cost more, but this time replacing the capacitor worked. </p>
+        <p>For someone not familiar with the layout, there are lables for items called Solenoid A and Solenoid B. If you trace the leads, they each head to a voltage regulator that has spikey head-dissipating fins protruding up. Each of those voltage regulators have a small circult near them that include diodes, resistors, and capacitors. It is these capacitors that you want to target. I suggest unsoldering them and testing them with a multimeter. They sell multimeters that can test capacitors. If your multimeter doesn't have that feature, there is a way to test using resistance mode and see if the resistance starts low and increase to infinity. If it doesn't do that, the capacitor is bad. </p>
+        <p>Happy Embossing</p>
+
+      <footer><p>This is my footer.</p></footer>
+    </div>
