@@ -1,0 +1,126 @@
+/* styles.css */
+/* ------------------NON-CLASS-SPECIFIC ITEMS------------------ */
+:root {
+    color: #353535;
+    background-color: #ffffff;
+    }
+a {
+color: rgb(26, 156, 126);
+font-weight: bold;
+text-decoration: none;
+    }
+h2 {
+    font-size: 1.6em; 
+    }
+h3 {
+    margin: 5px;
+    font-size: 1.4em;
+    }
+ul {
+    margin: 5px;
+    }
+li {
+    margin: 3px;
+    }
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    }
+header {
+    padding: 1px;
+    margin: 0px;
+    font-size: 1em;
+    box-sizing: content-box;
+    background-color: whitesmoke; /* #4959d7;*/
+    text-align: center;
+    }
+footer {
+    text-align: center;
+    padding: 5px;
+    font-size: 0.8em; /* Adjust font size as needed */
+    /* position: fixed; */
+    /* bottom: 0; */
+    width: 100%;
+    }
+/*------------- NAVIGATION BAR CLASS -----------------------------*/
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1px 1px;
+    border-bottom: 1px solid #d3cfcf
+        }
+  .navbar a {
+    color: #353535; /* Root font color */
+    font-size: 1.2em;
+    font-weight: normal;
+    text-decoration: none;
+    padding: 10px 20px;
+        }
+  .navbar a:hover {
+    background-color: #f0f0f0; /* Hover background color */
+        }
+  .navbar a.active {
+    background-color: #e0e0e0; /* Active background color */
+    font-weight: bold;
+        }
+
+/*------------- MAIN BODY CLASS -----------------------------*/
+.main-content {
+    margin: 2% 5% 2% 2%; /* Top Right Bottom Left */
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    /* border: 1px solid grey */
+    }
+
+/*------------- DIVISION SPECIFIC CLASSES -----------------------------*/ 
+.div-main-flex-row {    /* Top Level Division under the main, can make columns with flex */
+    padding: 2px;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: row;
+    /* border: solid 1px green */
+    }
+.card-border-left {     /* Card-like division with border and shadow, left justify content*/
+    flex:1;
+    justify-content:left;
+    min-height: 50px;
+    border: solid 1px grey;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+    }
+.section-position {     /* Used to move section h2 headings closer to the text and further from above content*/
+    height: 30px;
+    /* border: solid 1px grey; */
+    padding: 20px 0px 0px 0px; /*Top, Right, Bottom, Left*/
+    margin-left: 5px;
+    }
+.section-position h2 {     /* Used to move section h2 headings closer to the text and further from above content*/
+    padding: 0px 0px 0px 0px; /*Top, Right, Bottom, Left*/
+    margin: 0px;
+    }
+
+/*------------- NESTED LIST WITH EXPANSION SPECIFIC CLASSES -----------------------------*/ 
+
+.nested-list {
+    display: none;
+    }
+.nested-list.show {
+    display: block;
+    }
+.nested-list.show li {
+    font-size: 18px;
+    }
+.expand-button {
+    border: none;
+    background: none;
+    cursor: pointer;
+    }
+.category-list li {
+    font-size: 24px;
+    }
