@@ -23,7 +23,15 @@
     <div id="main-content" class="main-content", role="main">
       <main role="main">
         <h2>Categories</h2>
-        <ul class="category-list">
+          <ul class="category-list">
+            <li style="list-style-type: none;">
+              <button class="expand-button">+</button>
+              Soups
+              <ul class="nested-list">
+                <li><a href="/recipes/quinoa-kale.html">Quinoa Kale Lentil Soup</a></li>
+                <li><a href="/recipes/peanut-sweetpotato.html">Peanut Sweet Potato Soup</a></li>
+              </ul>
+            </li>
             <li style="list-style-type: none;">
               <button class="expand-button">+</button>
               Sauces
@@ -46,20 +54,21 @@
             <li style="list-style-type: none;">
               <button class="expand-button">+</button>
               Breads/Doughs
-            <ul class="nested-list">
-              <li><a href="/recipes/bread.html">White Bread & Rye Bread</a></li>
-              <li><a href="/recipes/banana-bread.html">Banana Bread</a></li>
-              <li><a href="/recipes/pumpkin-bread.html">Pumpkin Bread</a></li>
-            </ul>
-          </li>
-          <li style="list-style-type: none;">
-            <button class="expand-button">+</button>
-            Beverages
-          <ul class="nested-list">
-            <li><a href="/recipes/golden-latte.html">Golden Latte</a></li>
+              <ul class="nested-list">
+                <li><a href="/recipes/bread.html">White Bread & Rye Bread</a></li>
+                <li><a href="/recipes/banana-bread.html">Banana Bread</a></li>
+                <li><a href="/recipes/pumpkin-bread.html">Pumpkin Bread</a></li>
+                <li><a href="/recipes/pizza-dough.html">Pizza Dough</a></li>
+              </ul>
+            </li>
+            <li style="list-style-type: none;">
+              <button class="expand-button">+</button>
+              Beverages
+              <ul class="nested-list">
+                <li><a href="/recipes/golden-latte.html">Golden Latte</a></li>
+              </ul>
+            </li>
           </ul>
-        </li>
-        </ul>
           <script>
             const expandButtons = document.querySelectorAll('.expand-button');
         
