@@ -4,6 +4,9 @@
     color: #353535;
     background-color: #ffffff;
     }
+@media (max-width: 768px) {
+    nav {flex-wrap: wrap;}
+}
 a {
 color: rgb(26, 156, 126);
 font-weight: bold;
